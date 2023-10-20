@@ -124,6 +124,6 @@ class Funcionamento {
                 }
             }
         }
-        println("Seu número de vaga é : ${cliente.size - 1}")
+        println("Fechando Sistema")
     }
 }
